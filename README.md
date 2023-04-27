@@ -1,7 +1,7 @@
 
 # Hello folks!👋
 
- I am Bhushan Laware, an Enthusiastic Frontend engineer. 
+I am Bhushan Laware, A highly skilled and results-driven Frontend Developer with over 4.5 years of experience in designing, developing, and implementing innovative web applications using cutting-edge technologies. Proficient in JavaScript stack with a strong background in delivering high-quality user experiences for clients in diverse industries. Demonstrated ability to quickly learn new technologies, optimize code for performance, and adhere to best practices. Seeking a challenging position to further enhance my skills and contribute to the growth and success of a dynamic organization.
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
