@@ -1,7 +1,7 @@
 
 # Hello folks!👋
 
-<!-- I am Bhushan Laware, an Enthusiastic Frontend engineer. 
+ I am Bhushan Laware, an Enthusiastic Frontend engineer. 
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
@@ -23,7 +23,7 @@
 
 
 🙏 for reading!
- -->
+ 
 <!--
 **bhushanlaware/bhushanlaware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
